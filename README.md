@@ -1,2 +1,3 @@
 # ltbooking
-first gib repository
+first git repository
+Author - Sanskriti Goyal
